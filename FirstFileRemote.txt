@@ -2,3 +2,6 @@ This is first file in remote
 
 
 This is added by hari
+
+conflicts may be come.
+changes completed
